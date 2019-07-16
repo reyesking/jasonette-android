@@ -29,6 +29,8 @@ Huge thanks to the following persons that helped in this release:
 
 - [Moises Portillo](https://github.com/moizest89): Helped with some guidance over the GPS permission issue.
 
+- [Adán Miranda](https://github.com/takakeiji): Helped compiling *Jason* App APK.
+
 - [Devs Chile](https://devschile.cl): Chilean commmunity of developers.
 
 ## [1.0](https://github.com/jasonelle/jasonelle/releases/tag/v1.0)
