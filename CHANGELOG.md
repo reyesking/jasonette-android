@@ -12,7 +12,17 @@ This version is the current in development.
 
 ### Changed
 
+- Minimum Android version bumped to `6.0`.
+
+- Changed from `QR_CODE` to `ALL_FORMATS` as suggested by `Mike Metcalfe`. [Docs](https://developers.google.com/android/reference/com/google/android/gms/vision/barcode/Barcode.html#ALL_FORMATS). With this addition now the android app can scan any barcode supported by the vision engine.
+
 ### Fixed
+
+- Fixed issue when accessing Geolocation data. (Need to ask permissions).
+
+- Fixed `build.gradle` for Android Studio `v3.2.1`. By [@CydeSwype](https://github.com/Jasonette/JASONETTE-Android/commits?author=CydeSwype).
+
+-  Fixed text zoom issue in `Webview` by [@naei](https://github.com/naei).
 
 ### Updated
 
