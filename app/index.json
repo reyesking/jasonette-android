@@ -1,0 +1,13 @@
+{
+   "$jason": {
+		"body": {
+			"background": {
+				"type": "html",
+				"url": "https://bubble.is/page?name=index&id=sctb2&tab=tabs-1",
+					"action": {
+						"type": "$default"
+							  }
+						  }
+				}
+			  }
+}
